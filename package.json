@@ -1,0 +1,16 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anzer Bin Ubaid",
+  "license": "ISC",
+  "description": "Simon Says is a classic memory game where players must repeat sequences of colors and sounds in the correct order. The game challenges players to enhance their memory and attention skills by following increasingly complex patterns.",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
